@@ -1,0 +1,17 @@
+.pt1, .pt2 {
+width: 600px;
+}
+
+.sq {
+height: 120px;
+width: 120px;
+float: left;
+}
+
+.green {
+background-color: green;
+}
+
+.black {
+background-color: black;
+}
